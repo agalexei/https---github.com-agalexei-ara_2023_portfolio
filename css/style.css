@@ -145,6 +145,10 @@ blockquote {
   text-decoration: none;
 }
 
+#big-logo {
+  font-size: 160px!important;
+}
+
 .logo.w--current {
   font-family: Switzer, sans-serif;
 }
