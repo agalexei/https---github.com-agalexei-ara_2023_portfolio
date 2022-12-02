@@ -1051,8 +1051,8 @@ blockquote {
 .hide-desktop {
   background-size: contain;
   display:block;
-  width: auto;
-  height: 600vh;
+  max-width: auto;
+  height: auto;
 }
 
 @media screen and (min-width: 480px) {
