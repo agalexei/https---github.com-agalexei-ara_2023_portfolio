@@ -863,6 +863,12 @@ blockquote {
   background-color: #ccced2;
 }
 
+.email-contact {
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
 @media screen and (min-width: 1920px) {
   .title {
     padding-left: 0%;
