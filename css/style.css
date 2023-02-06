@@ -390,7 +390,7 @@ blockquote {
 .image-preview {
   display: block;
   height: auto;
-  max-width: 50vw;
+  max-width: 40vw;
 }
 
 .projects-paragraph-wrapper {
